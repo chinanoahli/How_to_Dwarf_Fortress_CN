@@ -16,7 +16,7 @@
 
 1. [游戏简介](/markdown/1.game_introduction.md)
 
-2. 游戏安装
+2. [游戏安装](/markdown/2.game_installation.md)
 
 3. 主菜单介绍
 
